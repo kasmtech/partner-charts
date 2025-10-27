@@ -1,7 +1,6 @@
 # Kasm Workspaces (kasm)
 
 ## Overview
-**Important**: This chart has been deprecated and will no longer be maintained. Use the new `kasm` chart moving forward.
 
 Kasm Workspaces provides secure, containerized, and browser-accessible workspaces for a variety of applications and industries. It delivers isolated and secure environments that can be accessed via web browsers, eliminating the need for local installations and enhancing security by keeping sensitive data within your infrastructure. Kasm is ideal for providing VDI, remote browser access, and secure access to development environments.
 
@@ -23,4 +22,5 @@ Review the Kasm helm chart [installation instruction](https://github.com/kasmtec
 
 
 ## Resources
--   [Kasm Workspaces Documentation](https://www.kasmweb.com/docs/latest/index.html)
+- [Kasm Workspaces Documentation](https://www.kasmweb.com/docs/latest/index.html)
+- [Kasm Helm Github](https://github.com/kasmtech/kasm-helm)
