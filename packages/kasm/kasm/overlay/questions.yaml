@@ -1,16 +1,16 @@
 questions:
 - variable: publicAddr
-  label: publicAddr
+  label: Public Address
   description: "Set the access URL to be used for the Kasm deployment."
   type: string
   required: true
 - variable: certificate.secretName
-  label: certificate_secretName
-  description: "Set the secret name where the certificate is stored. Ensure that the secret has been created beforehand."
+  label: Certificate Secret Name
+  description: "Set the secret name where the certificate is stored. Ensure the secret is created beforehand."
   type: string
   required: true
 - variable: ingress.enabled
-  label: ingress_enabled
+  label: Enable Ingress
   description: "Set the enabled value to `true` to use a pre-defined Ingress service to expose Kasm."
   type: boolean
   default: false

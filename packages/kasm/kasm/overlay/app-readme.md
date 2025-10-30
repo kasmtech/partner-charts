@@ -2,6 +2,8 @@
 
 ## Overview
 
+> ⚠️ **This Helm chart is currently under technical Preview. Potential users should be advised that it is suitable for demo and evaluation purposes.**  
+
 Kasm Workspaces provides secure, containerized, and browser-accessible workspaces for a variety of applications and industries. It delivers isolated and secure environments that can be accessed via web browsers, eliminating the need for local installations and enhancing security by keeping sensitive data within your infrastructure. Kasm is ideal for providing VDI, remote browser access, and secure access to development environments.
 
 The `kasm` Helm chart simplifies the deployment of Kasm Workspaces instance on Kubernetes, enabling rapid deployment and management of your virtual workspace infrastructure.
