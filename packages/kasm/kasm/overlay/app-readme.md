@@ -25,4 +25,4 @@ Review the Kasm helm chart [installation instruction](https://github.com/kasmtec
 
 ## Resources
 - [Kasm Workspaces Documentation](https://www.kasmweb.com/docs/latest/index.html)
-- [Kasm Helm Github](https://github.com/kasmtech/kasm-helm)
+- [Kasm Helm GitHub](https://github.com/kasmtech/kasm-helm)
