@@ -8,7 +8,7 @@ Kasm Workspaces provides secure, containerized, and browser-accessible workspace
 
 The `kasm` Helm chart simplifies the deployment of Kasm Workspaces instance on Kubernetes, enabling rapid deployment and management of your virtual workspace infrastructure.
 
-**Please note**: This chart will still require you to set up a [Kasm Agent](https://kasm.com/docs/latest/install/multi_server_install.html#install-agent-server-role-s) on a Virtual Machine or Bare-metal server in order to start any Kasm Workspaces.
+**Please note**: This chart will still require you to set up a [Kasm Agent](https://docs.kasm.com/docs/install/multi_server_install#install-agent-server-roles) on a Virtual Machine or Bare-metal server in order to start any Kasm Workspaces.
 
 
 ## Highlights
@@ -24,5 +24,5 @@ Review the Kasm helm chart [installation instruction](https://github.com/kasmtec
 
 
 ## Resources
-- [Kasm Workspaces Documentation](https://www.kasmweb.com/docs/latest/index.html)
+- [Kasm Workspaces Documentation](https://docs.kasm.com/docs/)
 - [Kasm Helm GitHub](https://github.com/kasmtech/kasm-helm)
