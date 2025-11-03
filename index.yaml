@@ -33211,14 +33211,14 @@ entries:
           image: kasmweb/rdp-https-gateway:1.18.0
     apiVersion: v2
     appVersion: 1.18.0
-    created: "2025-11-03T14:51:08.123747Z"
+    created: "2025-11-03T18:26:32.36325Z"
     description: Kasm is a platform specializing in providing secure browser-based
       workspaces for a wide range of applications and industries. Its main goal is
       to provide isolated and secure environments that can be accessed via web browsers,
       ensuring that users can perform tasks without risking the security of their
       local systems.
-    digest: 287996e329a1c3a8684b29a0f681e6602809bd98ae186afb1253ae43bec482dd
-    home: https://kasmweb.com
+    digest: c008923a18aff07b6bd2160c3c04d48ecb3bc1b0dff134db57c9d0282ca7bda3
+    home: https://kasm.com
     icon: file://assets/icons/kasm.png
     keywords:
     - kasm
